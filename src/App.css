@@ -1,0 +1,13 @@
+.ulclass{
+  list-style: none;
+  display:inline-flex;
+  line-height: 10px;
+  
+  
+}
+.liclass{
+  font-size: 20px;
+  padding: 20px;
+  font-weight: bold;
+  
+}
